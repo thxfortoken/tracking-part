@@ -19,7 +19,7 @@ import java.io.ByteArrayInputStream;
 import java.io.IOException;
 
 
-class ItemPanel extends JPanel {
+public class ItemPanel extends JPanel {
     private static final long serialVersionUID = 1L;
     private BufferedImage image;
 
